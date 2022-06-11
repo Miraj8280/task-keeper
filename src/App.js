@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <PageTitle>task keeper</PageTitle>
+        <PageTitle>todo list</PageTitle>
         <div className={styles.app__wrapper}>
           <AppHeader />
           <AppContent />
