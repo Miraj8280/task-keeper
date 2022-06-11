@@ -24,7 +24,6 @@ In the project, I've created a Complete Todo Application with all features using
 * Sorted by time & date (most recent on the top).
 * Status for complete/incomplete.
 * Hitting the refresh button do not cause any change.
-* Works like regular offline app.
 * Easy to use interface.
 
 ## What I've used
